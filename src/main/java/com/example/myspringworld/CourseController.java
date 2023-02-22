@@ -14,7 +14,8 @@ public class CourseController {
         return Arrays.asList(
                 new Course(1, "docker", "mahesh"),
                 new Course(2, "java", "archana"),
-                new Course(3, "selenium", "manish")
+                new Course(3, "selenium", "manish"),
+                new Course(4, "selenium", "manish")
         );
     }
 }
